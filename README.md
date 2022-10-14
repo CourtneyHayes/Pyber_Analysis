@@ -12,4 +12,16 @@ For the company PyBer create a summary DataFrame of the ride-sharing data by cit
   
   
   ### Conclusion
+ Using what we have learned there are many more possibilities to analyze this data.
+ Creating dataframes and the particular syntax used we were able to determine the following:
   
+   -There are more than double the amount of rides and drives in Urban city types as opposed to        Rural and Suburban.
+   
+   -Because of item one, you will also see that the average fare per driver is significantly less
+   in Urban than Rural or Suburban. 
+   
+   -The average fare per ride is relatively close in all city types.
+   
+   -Total fares are significantly higher in Urban Areas.
+
+
